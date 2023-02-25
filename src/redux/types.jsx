@@ -1,0 +1,10 @@
+
+const types={
+    CHANGE_INPUT:'CHANGE_INPUT',
+    ADD_TODO:'ADD_TODO',
+    DELETE_TODO:'DELETE_TODO',
+    CHANGE_STATUS:'CHANGE_STATUS',
+    DELETE_ALL: 'DELETE_ALL'
+}
+
+export default types
